@@ -1,0 +1,17 @@
+{
+  "name": "DarkAge.Infrastructure.Firebase",
+  "rootNamespace": "DarkAge.Infrastructure.Firebase",
+  "references": [
+    "DarkAge.Core",
+    "DarkAge.Gameplay"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

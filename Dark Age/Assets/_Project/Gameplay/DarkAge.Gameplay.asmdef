@@ -1,0 +1,16 @@
+{
+  "name": "DarkAge.Gameplay",
+  "rootNamespace": "DarkAge.Gameplay",
+  "references": [
+    "DarkAge.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

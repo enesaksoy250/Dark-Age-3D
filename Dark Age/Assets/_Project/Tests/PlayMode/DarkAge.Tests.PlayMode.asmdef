@@ -1,0 +1,22 @@
+{
+  "name": "DarkAge.Tests.PlayMode",
+  "rootNamespace": "DarkAge.Tests.PlayMode",
+  "references": [
+    "DarkAge.Core",
+    "DarkAge.Gameplay",
+    "DarkAge.Infrastructure.Firebase",
+    "DarkAge.Presentation"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "noEngineReferences": false
+}
